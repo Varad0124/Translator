@@ -1,0 +1,1 @@
+GET typically indicates that the user is requesting information, while POST indicates that the user needs to send us something and receive a response.
